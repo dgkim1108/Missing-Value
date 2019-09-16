@@ -11,8 +11,6 @@ Library of visualization
 - pip install missingno
 - pip install seaborn
 
-Library of Data Preprocessing
+Library of Data Preprocessing & Algorithm
 - pip install scikit-learn
-
-Etc
 - pip install xgboost
