@@ -4,19 +4,15 @@
 
 ### Install
 
-1. Tensorflow Setting
-
+Tensorflow Setting
 - pip install tensorflow-gpu
 
-2. Library of visualization
-
+Library of visualization
 - pip install missingno
 - pip install seaborn
 
-3. Library of Data Preprocessing
-
+Library of Data Preprocessing
 - pip install scikit-learn
 
-4. Etc
-
+Etc
 - pip install xgboost
